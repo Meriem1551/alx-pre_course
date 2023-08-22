@@ -1,1 +1,1 @@
-ALX
+ALX School
