@@ -1,1 +1,2 @@
-Welcome to my alx-pre_course repository
+Welcome to my alx-pre_course repository  
+  Updating my README file
