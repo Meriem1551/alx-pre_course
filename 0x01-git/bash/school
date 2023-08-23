@@ -1,1 +1,1 @@
-School
+The school is open!
